@@ -11,6 +11,3 @@ Responsive webpage using HTML and CSS
 
 
 <br>
-
-Test the webpage here:
-https://shishirbhandari.github.io/Switch/
